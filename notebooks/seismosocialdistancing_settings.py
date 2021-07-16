@@ -24,12 +24,12 @@ safety_window = pd.Timedelta('2 days')
 
 
 network = "S1"
-station = "AUKSC"              #,sydney,brisbane jump, adelaide," # Urban stations
+station = "AUTKS"              #,sydney,brisbane jump, adelaide," # Urban stations
 location = "*"
 channel = "BHZ"
-dataset = "Australia_AUKSC"
-time_zone = "Australia/Melbourne"
-sitedesc = "Keysborough Secondary College, Victoria"
+dataset = "Australia_AUTKS"
+time_zone = "Australia/Sydney"
+sitedesc = "The Kings School, Sydney"
 
 data_provider = "http://auspass.edu.au:8080"
 logo = None # 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Logo_SED_2014.png/220px-Logo_SED_2014.png'
